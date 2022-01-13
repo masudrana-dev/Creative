@@ -1,0 +1,81 @@
+
+@media (min-width: 575px) { 
+
+}
+@media (min-width: 576)  and (max-width:767px) { 
+    .banner-heading p {
+        padding: 0px 0px 15px;
+    }
+    .service-table-wrap {
+        margin: 10px;
+    }
+    .footer-icon-1::after {
+        display: none;
+    }
+    .footer-icon::after {
+        display: none;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner-heading p {     
+        padding: 0px 0 15px 0;    
+    }
+    #banner-part {
+        padding: 150px 0px 150px 0px;
+    }
+    .about-con a {
+        width: 100%;
+        text-align: center;
+    }
+    .about-con h4 {
+        text-align: center;
+        padding-top: 35px;
+    }
+    .about-border {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .service-table-wrap {
+        margin: 0 100px 25px auto;
+    }
+    #service-part {
+        padding: 40px 0;
+    }
+    .counter-con h4 {
+        font-size: 12px;
+    }
+    .team-hover h4 {       
+        font-size: 16px;
+    }
+    .team-hover h4 span {  
+        font-size: 10px;     
+    }
+    .team-hover ul li i {
+        height: 35px;
+        width: 35px;  
+        line-height: 35px;   
+        font-size: 16px;
+    }
+    .team-bg-01 {
+        height: 350px;     
+    }
+    .team-bg-02 {
+        height: 350px;     
+    }
+    .team-bg-03 {
+        height: 350px;     
+    }
+    .footer-icon-1::after {
+        display: none;
+    }
+    .footer-icon::after {
+        display: none;
+    }
+ }
+@media (min-width: 1200px) {
+
+}
+@media (min-width: 1400px) {
+
+ }
